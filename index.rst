@@ -1,15 +1,20 @@
-.. AeroMAX documentation master file, created by
-   sphinx-quickstart on Thu Aug 28 14:06:15 2014.
+.. 网络 documentation master file, created by
+   sphinx-quickstart on Fri Aug 29 13:28:56 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎使用 AeroMAX 的教程！
-===================================
+Welcome to 网络's documentation!
+================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
+   :glob:
+   :numbered:
+
+   article/*
 
 
 
