@@ -107,12 +107,5 @@ linux 安装方式
 
     print "hello,world"
 
-#. 插入图片
-   
-   .. figure:: ..\_static\1.jpg​
-
 
 参考文献： :file:`http://jwch.sdut.edu.cn/book/rst.html`
-
-
-   .. figure:: ..\_static\1.jpg​
